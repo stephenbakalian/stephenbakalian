@@ -1,5 +1,7 @@
 ### Hello World 👋
 
+[![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=stephenbakalian&bg_color=040f0f&color=0cf574&line=2f97c1&point=2f97c1&title_color=2f97c1&radius=4.5)](https://github.com/stephenbakalian/)
+
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -15,17 +17,8 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 
-<!--
-**stephenbakalian/stephenbakalian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+<p align="center">	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=stephenbakalian&show_icons=true&theme=blue-green&show=reviews" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=stephenbakalian&theme=blue-green" />
+</p>
